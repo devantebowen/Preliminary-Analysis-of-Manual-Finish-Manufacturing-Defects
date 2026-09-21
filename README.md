@@ -86,7 +86,6 @@ The fishbone diagram presents **potential causes to investigate**, not proven ca
 - [Revised academic report with fishbone diagram](reports/Preliminary_Analysis.docx)
 - [Four Power BI Pareto charts as a PDF](reports/Power_BI_Pareto_Charts.pdf)
 - [Course dataset](data/manufacturing_defects.csv)
-- [Reproducible summary script](src/analyze_defects.py)
 - [Exported summary tables](results/)
 - [Power BI field setup](POWER_BI_SETUP.md)
 
