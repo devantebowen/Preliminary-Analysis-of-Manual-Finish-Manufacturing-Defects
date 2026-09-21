@@ -1,0 +1,25 @@
+Defect Type,defect_count,percent_of_records,cumulative_percent
+solder bridge,304,9.6508,9.6508
+no property assembled,272,8.6349,18.2857
+missing/unknown,239,7.5873,25.873
+component misalignment,234,7.4286,33.3016
+reversed component,194,6.1587,39.4603
+damaged/ lifted pad,192,6.0952,45.5556
+missing component,189,6.0,51.5556
+component height/titled,172,5.4603,57.0159
+lifted component,168,5.3333,62.3492
+pin hole,165,5.2381,67.5873
+component broken,143,4.5397,72.127
+excessive solder,143,4.5397,76.6667
+insufficient solder,123,3.9048,80.5714
+long terminals,121,3.8413,84.4127
+pin damaged,91,2.8889,87.3016
+wrong component,72,2.2857,89.5873
+wrong configuration,65,2.0635,91.6508
+damaged component,64,2.0317,93.6825
+bad modules,57,1.8095,95.4921
+solder void,50,1.5873,97.0794
+trace open,39,1.2381,98.3175
+wrong routing,29,0.9206,99.2381
+defective component,16,0.5079,99.746
+billboarding,8,0.254,100.0
