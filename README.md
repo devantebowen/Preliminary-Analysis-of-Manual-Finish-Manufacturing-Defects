@@ -92,16 +92,6 @@ The fishbone diagram presents **potential causes to investigate**, not proven ca
 
 The report is the revised academic document supplied for this repository. The original `.pbix` file is not included because it was not supplied. The PNGs and PDF are static Power BI exports.
 
-## Reproduce the summary tables
-
-From the repository folder, run:
-
-```powershell
-python src/analyze_defects.py
-```
-
-The script uses Python 3 and its standard library, so no additional packages are required. It reads the CSV, reports the main findings, and writes model, defect, and observation-area summaries to `results/`. Percentages are calculated from counts before rounding. All categories, including unknown entries, are retained.
-
 ## Limitations and next steps
 
 - Count rankings cannot establish defect rates without production or inspection volumes.
